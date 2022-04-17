@@ -1,2 +1,2 @@
-# Bug_repor_(pmp-tech.ru)
+# Bug_report_(pmp-tech.ru)
 Some bug reports. Tested for experience
